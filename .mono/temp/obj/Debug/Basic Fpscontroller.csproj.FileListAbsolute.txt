@@ -1,0 +1,8 @@
+/home/collinsey/Documents/gameProjects/BASIC_FPSCONTROLLER/.mono/temp/bin/Debug/Basic Fpscontroller.dll
+/home/collinsey/Documents/gameProjects/BASIC_FPSCONTROLLER/.mono/temp/bin/Debug/Basic Fpscontroller.pdb
+/home/collinsey/Documents/gameProjects/BASIC_FPSCONTROLLER/.mono/temp/obj/Debug/Basic Fpscontroller.csprojAssemblyReference.cache
+/home/collinsey/Documents/gameProjects/BASIC_FPSCONTROLLER/.mono/temp/obj/Debug/Basic Fpscontroller.AssemblyInfoInputs.cache
+/home/collinsey/Documents/gameProjects/BASIC_FPSCONTROLLER/.mono/temp/obj/Debug/Basic Fpscontroller.AssemblyInfo.cs
+/home/collinsey/Documents/gameProjects/BASIC_FPSCONTROLLER/.mono/temp/obj/Debug/Basic Fpscontroller.csproj.CoreCompileInputs.cache
+/home/collinsey/Documents/gameProjects/BASIC_FPSCONTROLLER/.mono/temp/obj/Debug/Basic Fpscontroller.dll
+/home/collinsey/Documents/gameProjects/BASIC_FPSCONTROLLER/.mono/temp/obj/Debug/Basic Fpscontroller.pdb
